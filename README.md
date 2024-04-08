@@ -1,1 +1,1 @@
-Full Stack SuperHero Portal built with React.js (Frontend), .NET Web API and MS SQL Server (Database).
+SuperHero Portal API built .NET 8 Web API, Entity Framework Core 8 and MS SQL Server (Database).
